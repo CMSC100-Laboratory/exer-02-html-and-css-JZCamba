@@ -1,6 +1,6 @@
 .flex-container {
     display: flex;
-    margin: 20;
+    margin: 100;
     background-color: blue;
     flex-direction: column;
 }
